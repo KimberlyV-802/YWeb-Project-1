@@ -1,0 +1,114 @@
+.about-me {
+  background-color: #EEE8AA;
+  border-radius: 25px;
+  color: gray;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  padding: 10px 20px;
+}
+
+#about-title {
+  color: #4e2161;
+  font-size: 48px;
+}
+
+body {
+  background-image: url("../images/splash.png");
+  background-size: cover;
+  line-height: 1.4em;
+}
+
+.button {
+  background-color: #4e2161;
+  color:#ffe6eb;
+  border-radius: 10px;
+}
+
+.center {
+  text-align: center;
+}
+
+.circular--square {
+  border-radius: 50%;
+  /*image position*/
+  margin-left: 150px;
+}
+
+.container-bottom {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.container-top {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.copyright {
+  font-size: 15px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+div {
+  padding: 15px;
+}
+
+.form {
+  color: #4e2161;
+  font-family: 'Montserrat', sans-sans-serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 30px;
+  text-align: center;
+}
+
+.goals {
+  background-color: #EEE8AA;
+  border-radius: 25px;
+  color: gray;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  padding: 10px 180px 10px;
+}
+
+h1 {
+font-family: 'Pacifico', cursive;
+ text-align: center;
+}
+
+h2 {
+  font-family: 'Pacifico', cursive;
+  font-size: 2em;
+  text-align: center;
+  }
+  
+
+label {
+  padding-left: 30px;
+}
+
+.skills {
+  background-color: #EEE8AA;
+  border-radius: 25px;
+  color: gray;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 20px;
+  padding: 10px 200px 10px;
+}
+
+.skills li, .goals li {
+  list-style-position: inside;
+}
+
+table, th, td {
+  border: 1px solid gray;
+  border-collapse: collapse;
+  font-family: 'Montserrat', sans-sans-serif;
+}
+
+th, td {
+  color: #4e2161;
+  font-size: 20px;
+  padding: 10px;
+}
